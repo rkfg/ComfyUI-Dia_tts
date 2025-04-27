@@ -1,2 +1,2 @@
 torchaudio
-dac
+descript-audio-codec
